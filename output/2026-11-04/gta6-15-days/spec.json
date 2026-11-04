@@ -1,0 +1,19 @@
+{
+  "title": "15 days until GTA 6",
+  "caption": "been waiting since i was 12. i can survive 15 more days of excel\n\nwhat are you calling out sick for\n\n#gta6 #gaming #gamingmemes #rockstargames",
+  "slides": [
+    { "layout": "countdown", "number": "15", "label": "days until GTA 6", "text": "things i have to survive first:" },
+    { "layout": "list", "title": "the gauntlet", "items": [
+      "10 more workdays",
+      "4 more \"quick syncs\" that could've been an email",
+      "1 more \"so what are your goals for next year\"",
+      "preload on Nov 12 with my 40mbps wifi",
+      "my girl asking \"what's so special about this one\""
+    ]},
+    { "layout": "tweet", "text": "me explaining to my boss why i need nov 19 AND nov 20 off", "image_note": "guy in a dress shirt at a desk, dead serious face, hands steepled like a negotiation" },
+    { "layout": "split",
+      "left":  { "label": "12 y/o me", "text": "typing HESOYAM 40 times on San Andreas", "image_note": "kid on the floor too close to a CRT tv, PS2 controller" },
+      "right": { "label": "25 y/o me", "text": "using 2 PTO days to play the sequel", "image_note": "grown man on a couch in the dark, headset on, energy drink, completely locked in" } },
+    { "layout": "bigtext", "text": "13 years.\n15 days.\nnobody text me.", "sub": "see you in Leonida" }
+  ]
+}

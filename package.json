@@ -1,0 +1,7 @@
+{
+  "name": "videogamers-studio",
+  "private": true,
+  "description": "Content studio for the @videogamers Instagram page",
+  "scripts": { "render": "node tools/render.js" },
+  "dependencies": { "playwright": "^1.48.0" }
+}
